@@ -2,8 +2,8 @@
   <main>
     <SectionNavbar />
     <div>
-      <div class="mx-5 mt-36 lg:mx-24">
-        <div class="mt-3">
+      <div class="mx-5 mt-24 lg:mx-24">
+        <div class="mt-3 text-2xl">
           <span>Profesional Cleaning Services</span>
         </div>
         <div class="flex flex-col font-bold">
@@ -11,7 +11,7 @@
           <span class="text-3xl mb-3">Clean As Mine</span>
         </div>
         <div class="lg:w-3/5">
-          <p>
+          <p class="text-xl">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam molestiae magnam rem explicabo consectetur a temporibus excepturi saepe ullam, ea dolorem aperiam recusandae, amet ad expedita facilis incidunt corporis
             laudantium!
           </p>
